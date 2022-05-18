@@ -9,10 +9,6 @@
 - Auto logging before and after your RESP API controller methods
 - Measure execution time for your methods
 
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
-
 ## Tech
 
 This small project use:
